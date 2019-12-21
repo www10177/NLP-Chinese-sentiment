@@ -1,8 +1,8 @@
-run deom.ipynb
+run demo.ipynb
 
 ## TODO :
- -[] macro-f1 score?
- -[] bert in tf2.0?
- -[] predict functions
+ - [ ] macro-f1 score?
+ - [ ] BERT in tf2.0?
+ - [ ] predict function
 
 
