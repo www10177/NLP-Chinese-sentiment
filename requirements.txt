@@ -1,3 +1,5 @@
 bert-tensorflow
 tensorflow == 1.14.0
 tensorflow-gpu == 1.14.0
+keras-bert
+transformers
