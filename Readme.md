@@ -1,5 +1,6 @@
 `pip3 install -r requirements.txt` to install dependencies  
-run Pytorch.ipynb
+Run `DataClean.ipynb` to preprocessing data 
+run `Pytorch.ipynb` to traing Model
 ## TODO :
  - [x] macro-f1 score?
  - [ ] ~~BERT in tf2.0?~~
